@@ -1,11 +1,11 @@
 <!-- ============ ANIMATED LOGO BANNER ============ -->
 <p align="center">
-  <img src="./banner.gif" width="460" alt="HoRRus — Offensive Security"/>
+  <img src="./banner.gif" width="100%" alt="HoRRus — Offensive Security"/>
 </p>
 
-<!-- ============ ANIMATED SKILLS TAGLINE ============ -->
+<!-- ============ SKILLS TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=CFA44A&center=true&vCenter=true&width=600&height=45&lines=PWN+%E2%80%A2+Reversing+%E2%80%A2+Forensics;Web+%E2%80%A2+OSINT+%E2%80%A2+Crypto;Blockchain+%E2%80%A2+Quantum;ICS%2FSCADA+%E2%80%A2+Satellite;Red+Team+%E2%80%A2+Adversary+Emulation" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=CFA44A&center=true&vCenter=true&width=640&height=40&lines=PWN+%E2%80%A2+Reversing+%E2%80%A2+Forensics;Web+%E2%80%A2+OSINT+%E2%80%A2+Crypto;Blockchain+%E2%80%A2+Quantum+%E2%80%A2+ICS%2FSCADA;Satellite+%E2%80%A2+Red+Team" alt=""/>
 </p>
 
 <!-- ============ WHOAMI ============ -->
@@ -55,9 +55,6 @@ horrus@offsec:~$ whoami --full
 
 <!-- ============ CONNECT ============ -->
 ## 🌐 Connect
-
-<sub>Every profile below is anchored to one machine-readable registry:
-<a href="https://horrus-offsec.com/identity.json"><code>horrus-offsec.com/identity.json</code></a></sub>
 
 <p align="left">
   <a href="https://horrus-offsec.com/"><img src="https://img.shields.io/badge/Website-CFA44A?style=for-the-badge&logo=firefox&logoColor=black"></a>
