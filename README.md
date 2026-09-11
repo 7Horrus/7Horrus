@@ -1,11 +1,11 @@
 <!-- ============ ANIMATED LOGO BANNER ============ -->
 <p align="center">
-  <img src="./banner.gif" width="100%" alt="HoRRus — Offensive Security"/>
+  <img src="./banner.gif" width="460" alt="HoRRus — Offensive Security"/>
 </p>
 
 <!-- ============ ANIMATED SKILLS TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=700&color=CFA44A&center=true&vCenter=true&width=780&lines=PWN+%C2%B7+Reverse+Engineering+%C2%B7+Forensics;Web+%C2%B7+OSINT+%C2%B7+Cryptography;Blockchain+%C2%B7+Quantum+%C2%B7+Coding;ICS%2FSCADA+%C2%B7+Satellite+%C2%B7+Red+Team" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=CFA44A&center=true&vCenter=true&width=600&height=45&lines=PWN+%E2%80%A2+Reversing+%E2%80%A2+Forensics;Web+%E2%80%A2+OSINT+%E2%80%A2+Crypto;Blockchain+%E2%80%A2+Quantum;ICS%2FSCADA+%E2%80%A2+Satellite;Red+Team+%E2%80%A2+Adversary+Emulation" alt=""/>
 </p>
 
 <!-- ============ WHOAMI ============ -->
