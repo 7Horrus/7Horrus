@@ -5,7 +5,7 @@
 
 <!-- ============ SKILLS TAGLINE ============ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=CFA44A&center=true&vCenter=true&width=640&height=40&lines=PWN+%E2%80%A2+Reversing+%E2%80%A2+Forensics;Web+%E2%80%A2+OSINT+%E2%80%A2+Crypto;Blockchain+%E2%80%A2+Quantum+%E2%80%A2+ICS%2FSCADA;Satellite+%E2%80%A2+Red+Team" alt=""/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3200&pause=1000&color=CFA44A&center=true&vCenter=true&width=640&height=40&lines=Red+Team+%E2%80%A2+Adversary+Emulation;PWN+%E2%80%A2+Reverse+Engineering+%E2%80%A2+Forensics;Web+%E2%80%A2+OSINT+%E2%80%A2+Cryptography;Blockchain+%E2%80%A2+Quantum+%E2%80%A2+Coding;ICS%2FSCADA+%E2%80%A2+Satellite" alt=""/>
 </p>
 
 <!-- ============ WHOAMI ============ -->
@@ -64,4 +64,11 @@ horrus@offsec:~$ whoami --full
   <a href="https://www.facebook.com/Mohammed.ElKhateb.HoRRus/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
-<sub>⚔️ All research is conducted in authorized, controlled environments and disclosed responsibly.</sub>
+<br>
+
+<!-- ============ ANIMATED GOLD FOOTER ============ -->
+<p align="center">
+  <img src="./footer.gif" width="100%" alt=""/>
+</p>
+
+<p align="center"><sub>⚔️ All research is conducted in authorized, controlled environments and disclosed responsibly.</sub></p>
