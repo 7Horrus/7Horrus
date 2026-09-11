@@ -12,12 +12,12 @@
 ```console
 horrus@offsec:~$ whoami --full
 
-  Name        : Mohammed ElKhateb  (محمد الخطيب)
+  Name        : Mohammed ElKhateb  
   Alias       : HoRRus
   Role        : Vulnerability Researcher · Red Team Operator
   Focus       : Adversary emulation · AD attack chains · Web exploitation
   Frameworks  : MITRE ATT&CK · PTES
-  HTB Rank    : Omniscient · Grandmaster ◆◆◆  (Lvl 117 · Season 11 #39)
+  HTB Rank    : Omniscient · Grandmaster ◆◆◆  
   Credit      : CVE-2025-63607  (discovered, reported & registered)
   Status      : Breaking things in authorized environments, then documenting the fix.
 ```
