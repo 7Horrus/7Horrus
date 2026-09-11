@@ -27,7 +27,7 @@ horrus@offsec:~$ whoami --full
 
 - 📺 **TV Interview** — discussing modern offensive security & relation with AI · [watch](https://youtu.be/AZ-OnICWgjQ)
 - 🎧 **Podcast** — deep dive on red teaming · [listen](https://youtu.be/ql9d2SPP3AQ)
-- 🛡️ **CVE-2025-63607** — discovered &amp; responsibly disclosed · [advisory](https://github.com/7Horrus/security-research/tree/main/CVE-2025-63607)
+- 🛡️ **CVE-2025-63607** — discovered &amp; responsibly disclosed · [advisory](https://github.com/7Horrus/HoRRus-CVEs/tree/main/CVE-2025-63607)
 - ✍️ **Write-ups** — red-team walkthroughs &amp; attack chains · [Medium](https://medium.com/@HoRRus)
 - 🧩 **Hack The Box** — Omniscient · Grandmaster · [profile](https://app.hackthebox.com/users/1506676)
 
