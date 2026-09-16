@@ -60,8 +60,6 @@ horrus@offsec:~$ whoami --full
   <a href="https://horrus-offsec.com/"><img src="https://img.shields.io/badge/Website-CFA44A?style=for-the-badge&logo=firefox&logoColor=black"></a>
   <a href="https://www.linkedin.com/in/mohammed-elkhateb-horrus"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/HoRRusElKhateb"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <a href="https://www.instagram.com/horrus_official/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://www.facebook.com/Mohammed.ElKhateb.HoRRus/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 
 <br>
