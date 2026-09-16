@@ -36,19 +36,35 @@ horrus@offsec:~$ whoami --full
 
 <p align="left">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white">
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white">
+  <img src="https://img.shields.io/badge/Nikto-006B3C?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Nessus-00558C?style=flat-square&logo=tenable&logoColor=white">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white">
+  <img src="https://img.shields.io/badge/SQLmap-1A1A1A?style=flat-square&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white">
-  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=flat-square&logo=bloodhound&logoColor=white">
+  <img src="https://img.shields.io/badge/Impacket-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Empire_C2-C0392B?style=flat-square&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/BloodHound-8B0000?style=flat-square&logo=bloodhound&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerView-012456?style=flat-square&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Mimikatz-5B2C6F?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white">
+  <br>
   <img src="https://img.shields.io/badge/John_the_Ripper-2C3E50?style=flat-square&logo=hackthebox&logoColor=white">
+  <img src="https://img.shields.io/badge/Hashcat-117864?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Hydra-8E44AD?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Apktool-3DDC84?style=flat-square&logo=android&logoColor=black">
   <br>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-004482?style=flat-square&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white">
   <img src="https://img.shields.io/badge/MITRE_ATT%26CK-C0392B?style=flat-square&logo=mitre&logoColor=white">
   <img src="https://img.shields.io/badge/PTES-8B5A00?style=flat-square&logoColor=white">
 </p>
